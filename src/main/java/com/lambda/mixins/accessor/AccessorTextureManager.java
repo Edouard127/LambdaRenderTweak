@@ -1,4 +1,4 @@
-package com.kami.is.trolling.mixins.accessor;
+package com.lambda.mixins.accessor;
 
 import net.minecraft.client.renderer.texture.ITextureObject;
 import net.minecraft.client.renderer.texture.TextureManager;

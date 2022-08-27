@@ -1,7 +1,7 @@
 package com.kami.`is`.trolling.modules
 
 import com.kami.`is`.trolling.RenderTweak
-import com.kami.`is`.trolling.mixins.accessor.AccessorTextureManager
+import com.lambda.mixins.accessor.AccessorTextureManager
 import com.lambda.client.module.Category
 import com.lambda.client.plugin.api.PluginModule
 import net.minecraft.client.Minecraft
