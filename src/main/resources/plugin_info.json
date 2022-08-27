@@ -1,10 +1,10 @@
 {
-  "name": "RenderTweat",
+  "name": "RenderTweak",
   "version": "${version}",
-  "description": "Render Tweat",
+  "description": "Render Tweak",
   "url": "https://github.com/Edouard127/LambdaRenderTweak",
   "authors": [ "Kamigen" ],
-  "main_class": "com.kami.is.trolling",
+  "main_class": "com.kami.is.trolling.RenderTweak",
   "min_api_version": "3.2",
-  "mixins": [ "mixins.kami.is.trolling.json" ],
+  "mixins": [ "mixins.kami.is.trolling.json" ]
 }
