@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.lambda.mixins",
+  "refmap": "mixins.kami.is.trolling.refmap.json",
+  "client": [
+    "accessor.AccessorTextureManager",
+    "accessor.AccessorModelManager"
+  ]
+}

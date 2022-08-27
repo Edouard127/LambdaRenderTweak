@@ -1,11 +1,10 @@
 {
-  "name": "ExamplePlugin",
+  "name": "RenderTweat",
   "version": "${version}",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Render Tweat",
+  "url": "https://github.com/Edouard127/LambdaRenderTweak",
+  "authors": [ "Kamigen" ],
+  "main_class": "com.kami.is.trolling",
   "min_api_version": "3.2",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
-  "required_plugins": []
+  "mixins": [ "mixins.kami.is.trolling.json" ],
 }
