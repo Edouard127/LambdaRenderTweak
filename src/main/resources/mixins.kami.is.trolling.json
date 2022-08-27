@@ -4,6 +4,6 @@
   "package": "com.lambda.mixins",
   "refmap": "mixins.kami.is.trolling.refmap.json",
   "client": [
-    "com.kami.is.trolling.mixins.accessor.AccessorTextureManager"
+    "accessor.AccessorTextureManager"
   ]
 }
